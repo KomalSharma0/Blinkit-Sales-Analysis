@@ -65,7 +65,7 @@ You can find a screenshot showcasing the sales analysis and key insights here:
 
 ![Dashboard Screenshot 1](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/Blinkit%20sales%20analysis.png)
 
-Alternatively, you can view the dashboard [here](link_to_video).
+Alternatively, you can view the dashboard [here](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/Blinkit%20Sales%20Dashboard.pbix).
 
 ## Conclusion
 This guided Power BI project on Blinkit’s sales analysis provides actionable insights that can help optimize sales strategies, product offerings, and regional expansions. By focusing on data-driven decisions, Blinkit can drive growth in key markets and improve overall customer satisfaction.
