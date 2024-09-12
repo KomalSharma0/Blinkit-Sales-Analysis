@@ -61,12 +61,11 @@ Through this project, I gained the following technical and analytical skills:
 4. **Focus on Newer Outlets**: Outlets established after 2018 could benefit from targeted marketing efforts and better product assortments.
 
 ## Dashboard Demo
-You can find a video demo of the dashboard or screenshots showcasing the sales analysis and key insights here:
+You can find a screenshot showcasing the sales analysis and key insights here:
 
-![Dashboard Screenshot 1](link_to_image)
-![Dashboard Screenshot 2](link_to_image)
+![Dashboard Screenshot 1](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/Blinkit%20sales%20analysis.png)
 
-Alternatively, you can view the demo video [here](link_to_video).
+Alternatively, you can view the dashboard [here](link_to_video).
 
 ## Conclusion
 This guided Power BI project on Blinkit’s sales analysis provides actionable insights that can help optimize sales strategies, product offerings, and regional expansions. By focusing on data-driven decisions, Blinkit can drive growth in key markets and improve overall customer satisfaction.
