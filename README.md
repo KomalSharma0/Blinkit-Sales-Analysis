@@ -30,7 +30,7 @@ This Power BI sales analysis project focuses on understanding Blinkit’s overal
 
 ## Steps Involved
 This project was developed following a structured approach:
-1. **Data Collection**: Acquired sales and product data from Blinkit.
+1. **Data Collection**: Acquired sales and product data. [View Data Source](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/BlinkIT%20Grocery%20Data.xlsx)
 2. **Data Walkthrough**: Explored and understood the data structure.
 3. **Data Cleaning**: Removed duplicates, handled null values, and prepared data for analysis.
 4. **DAX Calculations**: Created custom measures in Power BI using DAX for calculating KPIs like total sales, average sales, and more.
