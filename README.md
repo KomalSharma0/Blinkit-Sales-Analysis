@@ -36,8 +36,6 @@ This project was developed following a structured approach:
 4. **DAX Calculations**: Created custom measures in Power BI using DAX for calculating KPIs like total sales, average sales, and more.
 5. **Charts Development and Formatting**: Built visual charts (bar graphs, pie charts, and more) to display key metrics.
 6. **Dashboard Development**: Developed an interactive dashboard in Power BI to visualize Blinkit’s performance.
-7. **Business Insights**: Generated insights based on the visualized data to understand the performance of various products and regions.
-8. **Suggestions**: Recommended strategic actions based on the findings.
 
 ## Skills Gained
 Through this project, I gained the following technical and analytical skills:
