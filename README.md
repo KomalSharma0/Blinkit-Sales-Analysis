@@ -5,9 +5,9 @@
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [Steps Involved](#steps-involved)
-- [Skills Gained](#skills-gained)
 - [Business Insights](#business-insights)
 - [Recommendations](#recommendations)
+- [Skills Gained](#skills-gained)
 - [Dashboard Demo](#dashboard-demo)
 - [Conclusion](#conclusion)
 
@@ -36,14 +36,6 @@ This project was developed following a structured approach:
 4. **DAX Calculations**: Created custom measures in Power BI using DAX for calculating KPIs like total sales, average sales, and more.
 5. **Charts Development and Formatting**: Built visual charts (bar graphs, pie charts, and more) to display key metrics.
 6. **Dashboard Development**: Developed an interactive dashboard in Power BI to visualize Blinkit’s performance.
-
-## Skills Gained
-Through this project, I gained the following technical and analytical skills:
-- **Data Cleaning and Preparation**: Learned best practices for cleaning raw data and preparing it for analysis.
-- **DAX (Data Analysis Expressions)**: Gained proficiency in using DAX to calculate custom metrics and KPIs in Power BI.
-- **Data Visualization**: Developed skills in visualizing data through various charts, graphs, and dashboards.
-- **Sales and Market Analysis**: Improved my ability to analyze sales data and derive actionable insights.
-- **Power BI Dashboard Design**: Acquired knowledge in building professional, interactive dashboards in Power BI.
   
 ## Business Insights
 1. **Total Sales**: Blinkit generated $1.20M in sales, with an average transaction value of $141. Increasing this value could drive additional growth.
@@ -58,6 +50,14 @@ Through this project, I gained the following technical and analytical skills:
 3. **Invest in Tier 3 Markets**: With strong sales in Tier 3 cities, increasing investments in these areas could yield further growth.
 4. **Focus on Newer Outlets**: Outlets established after 2018 could benefit from targeted marketing efforts and better product assortments.
 
+## Skills Gained
+Through this project, I gained the following technical and analytical skills:
+- **Data Cleaning and Preparation**: Learned best practices for cleaning raw data and preparing it for analysis.
+- **DAX (Data Analysis Expressions)**: Gained proficiency in using DAX to calculate custom metrics and KPIs in Power BI.
+- **Data Visualization**: Developed skills in visualizing data through various charts, graphs, and dashboards.
+- **Sales and Market Analysis**: Improved my ability to analyze sales data and derive actionable insights.
+- **Power BI Dashboard Design**: Acquired knowledge in building professional, interactive dashboards in Power BI.
+
 ## Dashboard Demo
 You can find a screenshot showcasing the sales analysis and key insights here:
 
@@ -67,4 +67,5 @@ Alternatively, you can view the dashboard [here](https://github.com/KomalSharma0
 
 ## Conclusion
 This guided Power BI project on Blinkit’s sales analysis provides actionable insights that can help optimize sales strategies, product offerings, and regional expansions. By focusing on data-driven decisions, Blinkit can drive growth in key markets and improve overall customer satisfaction.
+
 
